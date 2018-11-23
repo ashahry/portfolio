@@ -1,1 +1,2 @@
 # responsive_layout_project
+In this project, I am practicing building a responsive, mobile-first layout using HTML and CSS and based on given mockups. The design should respond to small, medium, and large viewport sizes and devices. I am writing basic layout styles to style the page for a small mobile device first. Then, using media queries, I'll add breakpoints to adjust the layout for wider tablet and desktop screens.
