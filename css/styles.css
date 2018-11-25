@@ -438,8 +438,8 @@ FULL SCREEN MEDIA QUERIES
     -webkit-transform:translateZ(0) scale(1.12); /* Safari and Chrome */
     -moz-transform:scale(1.12); /* Firefox */
     -ms-transform:scale(1.12); /* IE 9 */
-    -o-transform:translatZ(0) scale(1.12); /* Opera */
-    transform:translatZ(0) scale(1.12);
+    -o-transform: translateZ(0) scale(1.12); /* Opera */
+    transform: translateZ(0) scale(1.12);
   }
 
 }
